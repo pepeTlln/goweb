@@ -1,6 +1,6 @@
 # Crear rutas y maneja r peticiones 
 
-```
+``` go
 package routes
 
 import (
